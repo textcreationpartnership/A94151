@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Davids devotions upon his deliverances: set forth in a sermon at All-Saints in Derby, June 28, 1660. Being the day of publique thanksgiving for his Majesties happy restauration, by Joseph Swetnam preacher there.</title>
+            <author>Swetnam, Joseph, fl. 1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94151</idno>
+            <idno type="STC">Wing S6254</idno>
+            <idno type="STC">Thomason E1037_1</idno>
+            <idno type="STC">ESTC R209300</idno>
+            <idno type="EEBO-CITATION">99868184</idno>
+            <idno type="PROQUEST">99868184</idno>
+            <idno type="VID">168938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168938)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1037[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Davids devotions upon his deliverances: set forth in a sermon at All-Saints in Derby, June 28, 1660. Being the day of publique thanksgiving for his Majesties happy restauration, by Joseph Swetnam preacher there.</title>
+                  <author>Swetnam, Joseph, fl. 1617.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.M. and are to bee sold at this shop, at the Phœnix in St. Pauls Church-yard, neer the little North door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Restorations, Political --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168938:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <p>Davids Devotions UPON HIS DELIVERANCES: Set forth in a SERMON AT <hi>All-Saints</hi> in <hi>Derby, June</hi> 28, 1660.</p>
+            <p>BEING The Day of publique Thankſgiving FOR HIS MAJESTIES Happy Reſtauration, By <hi>JOSEPH SWETNAM</hi> PREACHER There.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. M.</hi> and are to bee ſold at his ſhop, at the Phoenix in St. <hi>Pauls</hi> Church-yard, neer the little North door. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:168938:2"/>
+            <!-- PDF PAGE 106 -->
+            <pb n="1" facs="tcp:168938:2"/>
+            <!-- PDF PAGE 106 -->
+            <head>A SERMON PREACHED At <hi>All-Saints</hi> in <hi>Derby, June</hi> 28. 1660.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen my thoughts were ſummoned to make proviſion for this day, 2 <hi>Sam.</hi> 19.14, 15. came to minde. <hi>And hee bowed the hearts of all the men of Judah as the heart of one man, ſo that they ſent this word to the King, Return thou, and all thy ſervants: ſo he King returned and came to Jordan, and Judah came to Gilgal, to go to meet the King, to conduct the King over Jordan.</hi> But ſeeing ſince the happy arrival of our gracious ſove<g ref="char:EOLhyphen"/>raign, ſo many additaments to our praiſes have flow<g ref="char:EOLhyphen"/>ed
+<pb n="2" facs="tcp:168938:3"/>
+               <!-- PDF PAGE 107 -->in uppon us, I judged that text too ſtraight, unleſs I ſhould alogically ramble, and ſo diſpleaſe my ſelf and you. I then flitted in my fancy, to verſes 41.42, 43. <hi>And behold all the men of Iſrael came to the King, and ſaid to the King, Why have our brethren the men of Judah ſtolen thee away, and have brought the King and his houſhold, and all Davids men with him over Jordan? and all the men of Judah anſwered the men of Iſrael; becauſe the King is neer of kin to us, wherefore then bee yee angry for this matter, have wee eaten at all of the Kings coſt? or hath hee given us any gift? and the men of Iſrael anſwered the men of Judah and ſaid, Wee have alſo more right in David than you, why did you deſpiſe us, that our advice ſhould not bee firſt had in bring<g ref="char:EOLhyphen"/>ing back our King? and the words of the men of Judah were feircer than the words of the men of Iſrael.</hi>
+            </p>
+            <p>This text after a ſhort ſurvey I paſſed by, leſt any rancor might revive, old ſores being too apt to bleed afreſh, withall conſidering thoſe two firſt jar<g ref="char:EOLhyphen"/>ring intereſts, laid by their animoſities to bring our King back, but above all our dread ſoveraign in his gracious declaration and proclamations, which breathe out nothing but ſweeteſt cementings, have<g ref="char:EOLhyphen"/>ing conjured all intereſts, to preſerve peace and unity, and ſince thoſe two ſticks, like them <hi>Ezekiel</hi> 37.16. are become one, and own one King, <hi>verſ.</hi> 24. I ſhall pray that <hi>Ephraim</hi> may not envy <hi>Judah,</hi> nor <hi>Judah</hi> vex <hi>Ephraim,</hi> and if old prophaneneſs and its abettors, like that beaſt, <hi>Reve.</hi> 13.3, 12. have not their dead<g ref="char:EOLhyphen"/>ly wound healed, I hope wee ſhall not hear of war any more.</p>
+            <p>My thoughts now began to hover, diſputing about
+<pb n="3" facs="tcp:168938:3"/>
+               <!-- PDF PAGE 107 -->texts fit for the occaſion, or whether I ſhould, with the antient fathers, make the occaſion my text, but ſe<g ref="char:EOLhyphen"/>riouſly pondering his Majeſties gracious expreſſions in the proclamation, <hi>That due thanks, and praiſe bee offered up to Almighty God, by us, and our people, with one heart, &amp; that humble ſupplications be powred out before him for his continual aſsiſtance and improvement of this and all his mercies,</hi> I then had by the conduct of a Divine finger pointed out to mee, <hi>Pſalme</hi> 34.3. <hi>O magnifie the Lord with mee, and let us exalt his name together.</hi>
+            </p>
+            <p n="1">1 The title tells you the author, and occaſion of this Pſalm; the author <hi>David,</hi> a King by unction, heir apparent to the Crown, though not by deſcent, yet by divine deſignation, and <hi>Sauls</hi> voluntary offer upon <hi>Goliahs</hi> fall.</p>
+            <p>Our dread Soveraign, a King by birth, and by confuting tranſcendently ſignal providences, was by the envious <hi>Sauls</hi> of thoſe times, forced to ſecure himſelf in forraign parts, when hee was but heir apparent.</p>
+            <p n="2">2. This pſalmiſts occaſion was his ſtraights, fleeing to the Philiſtines, and his exile thence by <hi>Abemilech,</hi> a common name to all their Kings, its ſignification excellent, the King father, but in order to <hi>David</hi> an Antiphraſis, expelling him that fled for ſhelter.</p>
+            <p>Our dread Soveraign fleeing to a ſuppoſed fa<g ref="char:EOLhyphen"/>ther, the French King, from the fury of a Jeſuited faction, imbrewing cruel hands in his Fathers Royal blood, againſt all Oaths, Proteſtations, and Co<g ref="char:EOLhyphen"/>venants, to the irreparable ſcandal of the real, not nominal Proteſtant religion, and many thouſand
+<pb n="4" facs="tcp:168938:4"/>
+               <!-- PDF PAGE 108 -->ſouls who had never any ſuch deſtructive thoughts to his Majeſties perſon, or poſterity, I ſay our graci<g ref="char:EOLhyphen"/>ous King flying into <hi>France,</hi> was upon the matter exiled thence; driven from one nation to another people, yet God ſuffered none to do him harm, preſerving our <hi>David</hi> where ever hee went, and for ſuch a time as this; Now bleſſed bee God who hath put ſuch a thing as this into the heart of the King, to walk in <hi>Davids</hi> ſteps, who being delivered out of the hands of all his enemies, doth, not in perſon only, but by his proclamation alſo, injoyn all to bleſs God for <hi>Englands</hi> redemption. I hope no pious ſpirit will quarrel with my parallel or prolix Preface, ſince I have been all this while within the call of my text, and not diſ-ſerviſed the duty of the day.</p>
+            <p>The two firſt verſes ſpeak <hi>Davids</hi> reſolution, in his perſon to praiſe God at all times, and the ſequel of his praiſes, the humble ſhall hear and be glad, up<g ref="char:EOLhyphen"/>on which my text is attendant.</p>
+            <q>O magnifie the Lord with mee, and let us exalt his name together.</q>
+            <p>This pſalm being one of thoſe the firſt letter of every verſe following the order in the hebrew Al<g ref="char:EOLhyphen"/>phabet, imports the writer to bee in an extraordi<g ref="char:EOLhyphen"/>nary rapture.</p>
+            <p>To baulk all curioſity, conſider this, plain but proper doctrine.</p>
+            <q>Prince and people, being joynt ſharers in mercy, ſhould bee joynt magnifiers of God for a mercy.</q>
+            <p>The word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> rendred <hi>magnifie,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ex<g ref="char:EOLhyphen"/>alt,</hi> will beſt manifeſt what the magnifying of Gods name is.</p>
+            <pb n="5" facs="tcp:168938:4"/>
+            <!-- PDF PAGE 108 -->
+            <p>The firſt ſignifieth to <hi>multiply, excelling, honour,</hi> and ſo to magnifie God, properly, is above crea<g ref="char:EOLhyphen"/>tures reach; man declares what God is, which is his higheſt pitch attainable unto; for the phraſe to <hi>magnifie</hi> and <hi>juſtifie,</hi> rather <hi>declare</hi> or manifeſt, than <hi>make,</hi> hence the word, <hi>Nehem.</hi> 8.4. is tranſlated a <hi>Pulpit,</hi> ſhewing that after ſignal mercies, they ſhould bee ſo imployed, ſhewing it forth that God is good.</p>
+            <p>The latter hebrew word rendred <hi>exalt,</hi> ſignifies vocal praiſe, when <hi>David</hi> reſolves to bleſs God with the beſt member that hee hath, which hee calls his glory. The word further, as ſome Criticks ſay, ſig<g ref="char:EOLhyphen"/>nifies to ſeparate from a prophane to a ſacred uſe; Chriſtians joyes muſt bee ſpiritual, not in <hi>May games,</hi> and <hi>Morris dances,</hi> the reviving of that obſolete <hi>Roman whore, Flora,</hi> her feſtivals, the promoters of which now ſpeak out, that prophaneneſs and de<g ref="char:EOLhyphen"/>bauchery they prefer before their King, and their <hi>Venerean, Bacchanalian joy,</hi> will ſo provoke an holy healing God, that if his mercy were not above all, our praiſes might bee impeaded or polluted; but I hope thoſe Idolatrous, popiſh, prophane prac<g ref="char:EOLhyphen"/>tiſes with their abettors and promoters will fall, as <hi>Satan</hi> did before the Apoſtles, like lightning; how<g ref="char:EOLhyphen"/>ever, let no humble heart bee dumb in praiſes this day, ſince a returning ſun gives at the firſt, life to weeds as well as to flowers: I doubt not but care will in due time bee taken to crop at leaſt, if not pluck up theſe tares, I mean not their perſons, but their impieties.</p>
+            <p>To prove my doctrine, conſult <hi>Iſaiah</hi> 12.4. <hi>And in that day ſhall yee ſay, Praiſe the Lord, call upon
+<pb n="6" facs="tcp:168938:5"/>
+                  <!-- PDF PAGE 109 -->his Name, declare his doings among the people, make mention that his name is exalted,</hi> Pſalm 66.2. <hi>Sing forth the honour of his name, make his Praiſe glorious,</hi> Pſalm 68.4. <hi>Sing unto God, ſing praiſe to his name, extol him that rideth upon the heavens by his name Jah, and rejoyce before him.</hi>
+            </p>
+            <p>Our <hi>David</hi> is <hi>precentor</hi> in this ſpiritual <hi>quire,</hi> and let none with <hi>Michal</hi> jeer, or with the victors after <hi>Abſoloms</hi> rout ſlink away aſhamed.</p>
+            <p>God is magnified</p>
+            <p n="1">1 When wee utter the memory of his great good<g ref="char:EOLhyphen"/>neſs. <hi>Pſalm</hi> 145.7. <hi>They ſhall abundantly utter the memory of thy Great goodneſs, and ſhall ſing of thy righ<g ref="char:EOLhyphen"/>teouſneſs. Its a good day,</hi> as the four leapers ſaid when the ſeige was raiſed from <hi>Samariah, and if wee hold our peace, evil will befall us.</hi>
+            </p>
+            <p n="2">2 God is exalted when his actings are ſet forth to the life. <hi>Pſalme</hi> 66.2. <hi>Sing forth the honour of his Name, make his Praiſe glorious.</hi> The leſs ſhadowed the more magnificent. God is never more magnified than when his work is owned, as being only his: with his holy arm hee hath got himſelf the victory.</p>
+            <p n="3">3 When wee are ſpeedy in our praiſes, not defer<g ref="char:EOLhyphen"/>ring them till a mercy grow ſtale, or ſuffer an eclipſe, <hi>Moſes</hi> and <hi>Miriam, Deborah</hi> and <hi>Barach,</hi> took no day, but ſang ſweet ſongs whilſt the deliverance was freſh.</p>
+            <p n="4">4 God is then magnified indeed when our praiſes are ſpiritual, <hi>ſinging with grace in our hearts to the Lord,</hi> Colloſ. 3.16. when wee conſtantly boaſt of God, as ver. 1. not like thoſe <hi>Iſraelites</hi> that ſang his praiſe, and ſoon forgat him, turning his glory into the ſimilitude of a <hi>Calf,</hi> whence <hi>Chryſoſt.</hi> compares
+<pb n="7" facs="tcp:168938:5"/>
+               <!-- PDF PAGE 109 -->them to graſhoppers, <hi>Subito ſaltantes protinus in ter<g ref="char:EOLhyphen"/>ram cadentes.</hi>
+            </p>
+            <p>If you look for reaſons to enforce this duty.</p>
+            <p n="1">1 God is great, and ſo is his name, hence, <hi>Jerem.</hi> 10.6. <hi>foraſmuch as there is none like unto thee, O Lord, thou art great, and thy name is great in might;</hi> Hee exhorts to magnifie.</p>
+            <p n="2">2 Wee are wiſdomes children, and its our duty to juſtifie our parent, <hi>Mat.</hi> 11.19. <hi>wiſdome is juſtified of her children;</hi> wee may not then bee tongue-tided in ſuch a day as this.</p>
+            <p n="3">3 Kindneſſes are conferred upon this account, <hi>Pſal.</hi> 50.15. <hi>Call upon mee in the day of trouble, I will de<g ref="char:EOLhyphen"/>liver thee, and thou ſhalt glorifie mee; were not ten cleanſed? but where are the nine?</hi>
+            </p>
+            <p n="4">4 God his goodneſs endures dayly in deſpite of all iniquity, <hi>Pſalm.</hi> 54.6. <hi>I will freely ſacrifize unto thee: I will Praiſe thy name, O Lord, for it is good.</hi> And ſhall not the redeemed of the Lord ſay ſo who were remembred by him in their low eſtate? <hi>O magnifie the Lord with mee, and let us exalt his name together.</hi>
+            </p>
+            <div type="application">
+               <head>Uſe.</head>
+               <p>I ſhall infer only an exhortation to give God the honour due to his name, for the return of ſo graci<g ref="char:EOLhyphen"/>ous a King.</p>
+            </div>
+            <div type="application">
+               <head>Motives.</head>
+               <p n="1">1 Many of us have the return of our prayers, hum<g ref="char:EOLhyphen"/>bly groaned forth, and not in rancor and malice bol<g ref="char:EOLhyphen"/>ted out, though thoſe like the fly on the wheel think they ſtir up all the duſt.</p>
+               <p n="2">2 God is now cleared to bee the wiſe, and only moderator, ruleing, yea over-ruleing all pretended
+<pb n="8" facs="tcp:168938:6"/>
+                  <!-- PDF PAGE 110 -->providences, ſucceſs was their <hi>Diana,</hi> and muſt bee the decider of that great controverſie, Whether <hi>regi<g ref="char:EOLhyphen"/>cidium</hi> by ſubjects was lawful or no: but God almigh<g ref="char:EOLhyphen"/>ty to the honour of his name hath confuted thoſe blood-hounds which killed and took poſſeſſion.</p>
+               <p n="3">3 Wee have now judgment running down like wa<g ref="char:EOLhyphen"/>ter, King <hi>Charles</hi> the ſecond reſtored, and that without the loſs of one drop of bloud; who more in<g ref="char:EOLhyphen"/>jured than our gracious King? and now God hath in ſpite of furious heatheniſh people, ſet him up upon his Throne, ſo that his enemies bow themſelves, hee treading upon the <hi>Aſp</hi> and <hi>Adder.</hi>
+               </p>
+               <p n="4">4 Hypocritical tyranny is exiled, which <hi>Jezabel</hi> like, when proclaimed a faſt, meant murther, devotions being the harbingers to too many innocents deſtructi<g ref="char:EOLhyphen"/>ons, which made us in thoſe times chooſe redarguing texts, though wee durſt do no more, witneſs <hi>Luke the</hi> 12.1. <hi>In the mean time, when there were gathered to<g ref="char:EOLhyphen"/>gether an innumerable multitude of people, in ſo much that they trod one upon another, hee began to ſay to his diſciples firſt of all, Beware yee of the leaven of the Phariſees, which is hypocriſie;</hi> upon <hi>December</hi> the 6.1655. but I ſcorn to crouch or flatter.</p>
+               <p n="5">5 Hereſie, and blaſphemy, like <hi>Apolloes</hi> oracles at Chriſt his birth being ſilenced; <hi>oracula ceſſant,</hi> as <hi>Juvenal</hi> ſaid, A canting <hi>Auguſtus,</hi> as <hi>Suidas</hi> hath it, enquiring about his ſucceſſor, might, if hee could re<g ref="char:EOLhyphen"/>turn, write <hi>haec eſt ara primogeniti dei;</hi> this is hee whoſe right it is from God; in a ſound ſence I may ſay, the ſon of God, the ſonne of his care, and de<g ref="char:EOLhyphen"/>light witneſs thoſe wonderful providences in his preſervation, and reſtauration.</p>
+               <pb n="9" facs="tcp:168938:6"/>
+               <!-- PDF PAGE 110 -->
+               <p n="6">6 Heedfully conſider ſeven things in our gracious King.</p>
+               <p n="1">1 Hee is no alien born, but a native, as <hi>Juda</hi> ſaid of <hi>David</hi> neer a kin to us, the firſt King that drew his firſt breath in <hi>England</hi> ſince King <hi>Edward</hi> the ſixth, hence that admired Sympathy and lenity towards his ſubjects hath much of its riſe, Happy art thou O land whoſe Prince is impatient till thy wounds bee healed.</p>
+               <p n="2">2 Ponder his prudence, evidenced in the choice of men, once jarring in their intereſts, to bee imploy<g ref="char:EOLhyphen"/>ed in greateſt truſts, by which hee prevents fears and jealouſies, once <hi>Englands</hi> falſe fiers, ſo that wee may ſay as it was of <hi>David</hi> and <hi>Solomon,</hi> our Lord <hi>the King is as an Angel of God, to diſcern good and evil.</hi>
+               </p>
+               <p n="3">3 Hee is no childe, to bee carried to and fro by the breath of ſelf-ſeeking Sycophants, but at that age the Lord Chriſt was, when hee undertook his ſpiritual Kingſhip, and <hi>David</hi> his temporal, thir<g ref="char:EOLhyphen"/>ty years old; a childe is often a miſery to a peo<g ref="char:EOLhyphen"/>ple, which King <hi>Edward</hi> the ſixt, and his ſub<g ref="char:EOLhyphen"/>jects, ſadly felt from his courtiers factions, <hi>Eccleſ.</hi> 10.16. <hi>Wo to thee O land, when thy King is a childe, and thy Princes eat in the morning,</hi> And Iſa. 3.4. <hi>And I will give children to bee their Princes, and babes ſhall rule over them.</hi>
+               </p>
+               <p n="4">4 His temperance is exemplary, ſo that debauched ones, like thoſe looſe youths in <hi>Job,</hi> fear, and fly, our great <hi>Charles</hi> being a ſecond <hi>Charles</hi> the great, <hi>ci<g ref="char:EOLhyphen"/>bi potuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> parciſsimus.</hi>
+               </p>
+               <p n="5">5 Hee is the Son of antient Kings, and our King by an indiſputable deſcent, ſo that none can ſay as thoſe
+<pb n="10" facs="tcp:168938:7"/>
+                  <!-- PDF PAGE 111 -->rebellious Iſraelites did in ſcorn, <hi>what is David or the Son of Jeſſe?</hi> our Chronicler <hi>Speede</hi> proving King <hi>James</hi> his title to this Crown was not from <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the ſevenths daughter only, but before the con<g ref="char:EOLhyphen"/>queſt. Now as <hi>Plato</hi> in his <hi>Alcibiades, conſentaneum eſt meliores eſſe naturas in nobili genere, quam igno<g ref="char:EOLhyphen"/>bili.</hi>
+               </p>
+               <p n="6">6 See how none could neſtle, or bottome in peace, upon this throne, though by Sycophants fawned upon, and with large promiſes of ſupport, addreſſed unto, God verifying that of <hi>Ezekiel</hi> 21.27. <hi>I will overturn, overturn, overturn it, untill hee come whoſe right it is; and I will give it him.</hi>
+               </p>
+               <p n="7">7 Hee is the deſire of three kingdomes, being a divine and reaſonable donation, invited home by com<g ref="char:EOLhyphen"/>mon conſent, and entertained with higheſt expreſſions of joy.</p>
+               <p>And now what remaines but that wee ſhould walk worthy of ſuch a Prince, leſt God in anger deprive us of him? as 1 <hi>Sam.</hi> 12.25. <hi>But if yee ſhall ſtill do wickedly, you ſhall bee conſumed, both you and your King.</hi> And then wee may at our leaſure with groans and ſighs repeat <hi>Jeremiahs lamentations</hi> to the breaking of our hearts. Think not by ſurfeiting, and drunkenneſs, chambering and wantonneſs, pride and envying, to ce<g ref="char:EOLhyphen"/>ment our breaches, and maintain his honour, <hi>Re<g ref="char:EOLhyphen"/>hoboams</hi> royſters ruined him, the <hi>Perſian</hi> Princes in<g ref="char:EOLhyphen"/>joyned the <hi>Jews</hi> to pray for the Kings life, where drinking was without compulſion, healths were not heard off.</p>
+               <p>Damning and drinking provoked the Almighty, and is not God (being alwayes the ſame) as angry
+<pb n="11" facs="tcp:168938:7"/>
+                  <!-- PDF PAGE 111 -->with the ſame ſin as hee was? nay, recoyls upon old ſins will cauſe recalls of old Judgments; you con<g ref="char:EOLhyphen"/>tradicting ſpirits who ſide with many, you hate out of an antipathy againſt holineſs, know, that our gra<g ref="char:EOLhyphen"/>cious King expects better things from you, in that pithy paſſage, <hi>That humble ſupplications bee powred out God for his continual aſsiſtance and improvement of this and all his mercies, to the honour of his great name, and ſafety, peace, and benefit, of our Kingdomes and domini<g ref="char:EOLhyphen"/>ons.</hi> Is God honoured by reviving old revellings? and is ſafety ſecured by prophaneneſs ſpitefully com<g ref="char:EOLhyphen"/>mitted? <hi>will you thus requite the Lord, yee fooliſh peo<g ref="char:EOLhyphen"/>ple and unwiſe?</hi> but I direct my ſpeech to thoſe hum<g ref="char:EOLhyphen"/>ble ones in the 2. verſe, who will rejoyce, and with upright hearts pray, that the Throne of our King may bee greater than his progenitors, and that God would build him a ſure houſe, ſo that wee may ne<g ref="char:EOLhyphen"/>ver hear the ſound of the trumpet, as alaruming to war, nor know the ſad ſequels of domeſtick broyls. And now to cloze up all, I ſay with <hi>Mephiboſheth,</hi> 2 <hi>Sam.</hi> 19.30. <hi>Foraſmuch as my Lord the King is come again in peace, unto his own houſe, let them enjoy re<g ref="char:EOLhyphen"/>wards that ſeek them,</hi> all I deſire, is liberty to preach Chriſt Jeſus the Lord.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
